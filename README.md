@@ -1,4 +1,4 @@
-<h1> Siste de cadastr de jogos </h1>
+<h1> Sistema de cadastr de jogos </h1>
 
 >Status do projeto de desenvolvimento
 
